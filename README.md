@@ -29,7 +29,7 @@ todo_api/
 ## Installation & Setup
 
 1. Clone the repository
-   git clone https://github.com/yourusername/todo-api.git
+   git clone https://github.com/Dhanush1728/todo-api.git
    cd todo-api
 
 2. Install dependencies
@@ -39,7 +39,7 @@ todo_api/
    uvicorn main:app --reload
 
 4. Open Swagger UI
-   http://localhost:8000/docs
+   https://to-do-list-api-fbl1.onrender.com/docs
 
 ## API Endpoints
 
@@ -71,4 +71,4 @@ POST /tasks
 ## Author
 
 Your Name
-GitHub: github.com/yourusername
+GitHub: github.com/Dhanush1728
